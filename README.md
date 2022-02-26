@@ -17,7 +17,7 @@
 Devpost Submission - Shivani
 Read Me - Shivani
 Mockup visualization - Ti
-CSV + Visulaization - Michelle
+CSV + Visualization - Michelle
 React - Claudia
 Micrsoft Azure Deployment - Shivani
 Overall Github  - Ti, Shivani
