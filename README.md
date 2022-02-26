@@ -12,3 +12,4 @@ CSV + Visulaization - Michelle
 React - Claudia
 Micrsoft Azure Deployment - Shivani
 Overall Github  - Ti, Shivani
+Firebase - Michelle
