@@ -22,3 +22,5 @@ React - Claudia
 Micrsoft Azure Deployment - Shivani
 Overall Github  - Ti, Shivani
 Firebase - Michelle
+Connect UI to Firebase - Michelle
+create page to upload csv - Michelle
