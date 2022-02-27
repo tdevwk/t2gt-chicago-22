@@ -4,19 +4,19 @@
 
 # Inspiration
 
-As aspiring Hackathon masters who also have an interest in data and finance, we wanted to create a tool that incorporates finance, financial literacy, and data. We also wanted to make this tool as accessible as possible so that any individual can use it to manage their finances. 
+On typical banking websites, purchases/transactions are usually represented by the date they occurred. While this is helpful for ensuring all your purchases have been recorded correctly, users could benefit from seeing where their money truly goes. The tool we created is designed to help individuals categorize their expenses and see how much they're spending on rent, utilities, dining, etc. in a visual chart.  
 
 # What it does
 
-User can export their CC or debit card activity into a csv, and they would upload it to our app/site. The data will be processed and the UI will display the result in a bar graph. When the user uploads the CSV, they see their monthly expense, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt.
+Users can export their CC or debit card activity into a csv, and then upload it to our site. The data will be processed and then users will be able to see their spending in a bar chart, organized by categories such as automotive expenses, entertainment expenses, etc. They can also input monthly expenses for rent, utilities, etc. The user can use this information to track their monthly expenses compare that with their earnings/debts in their bank accounts. It can help them with decision-making in regards to how much they might want to pay towards debt vs how much they would want to save.
 
 # How we built it
 
-The project was built using React, Azure Cosmos, HTML, CSS, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
+The project was built using React, Azure Cosmos, Chart.js, HTML, CSS, Typecript, and Javascript. We collaborated using Google Workspace, repl.it, VS Code. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
 
 # Challenges we ran into
 
-Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary. We also had trouble finding a tool that categorizes the transaction to a specific expense type.
+Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to utilize it in our project.
 
 # Accomplishments that we're proud of
 
@@ -24,23 +24,9 @@ We are proud that we were were able to create a functional website in just two d
 
 # What we learned
 
-We broadened our knowledge in new technologies and tech fields, namely cryptocurrency and data. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
+We broadened our knowledge in new technologies and tech fields. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
 
 # What's next for MoneyBean
-
 Add more features.
 Create more chatbots for using money.
 Add more data models.
-
-
-# Tasks
-Devpost Submission - Shivani
-Read Me - Shivani
-Mockup visualization - Ti
-CSV + Process - Michelle
-React - Claudia
-Micrsoft Azure Deployment - Shivani
-Overall Github  - Ti, Shivani
-Firebase - Michelle
-Connect UI to Firebase - Michelle
-create page to upload csv - Ti
