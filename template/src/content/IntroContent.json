@@ -1,0 +1,13 @@
+{
+  "title": "Take charge of your finances.",
+  "text": "Save yourself the headache and view your expenses and spending with ease.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}

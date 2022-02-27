@@ -1,0 +1,16 @@
+{
+  "title": "Simple, easy-to-use",
+  "text": "This tool helps you with organizing your finances.",
+  "section": [
+    {
+      "title": "What is Moneybean?",
+      "content": "A helping hand that provides an easy-to-use interface to summarize your transactions.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why Moneybean?",
+      "content": "It helps take the guesswork out of staying on top of your spending and savings.",
+      "icon": "magnify-glass-money.svg"
+    }
+  ]
+}
