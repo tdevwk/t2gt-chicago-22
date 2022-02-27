@@ -27,8 +27,6 @@ We are proud that we were were able to create a functional website in just two d
 We broadened our knowledge in new technologies and tech fields. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
 
 # What's next for MoneyBean
-
-We can expand the features of the site and allow for more comparison with savings data.  We could also incorporate chatbots to provide helpful tips on saving money.
-
-
-
+Add more features.
+Create more chatbots for using money.
+Add more data models.
