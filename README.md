@@ -12,7 +12,7 @@ User can export their CC or debit card activity into a csv, and they would uploa
 
 # How we built it
 
-The project was built using React, firebase, HTML, CSS, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
+The project was built using React, Azure Cosmos, HTML, CSS, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
 
 # Challenges we ran into
 
@@ -24,7 +24,7 @@ We are proud that we were were able to create a functional website in just two d
 
 # What we learned
 
-We broadened our knowledge in new technologies and tech fields, namely cryptocurrency and data. Since this was the first time creating a project with React and Firebase, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
+We broadened our knowledge in new technologies and tech fields, namely cryptocurrency and data. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
 
 # What's next for MoneyBean
 
