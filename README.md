@@ -4,27 +4,27 @@
 
 # Inspiration
 
-As aspiring Hackathon masters who also have an interest in data and finance, we wanted to create an app/website that incroporates finance, finance literacy, data, and is accessible. 
+As aspiring Hackathon masters who also have an interest in data and finance, we wanted to create a tool that incorporates finance, financial literacy, and data. We also wanted to make this tool as accessible as possible so that any individual can use it to manage their finances. 
 
 # What it does
 
-User can export their CC or debit card activity into a csv, and they would upload it to our app. The firebase will process the data and the UI will display the result in a bar graph or maybe something else. When the user uploads the CSV, they what their monthly expense, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt
+User can export their CC or debit card activity into a csv, and they would upload it to our app/site. The data will be processed and the UI will display the result in a bar graph. When the user uploads the CSV, they see their monthly expense, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt.
 
 # How we built it
 
-We built this website using react and firebase with repl.it and HTML, CSS, and Javascript. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
+The project was built using React, firebase, HTML, CSS, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
 
 # Challenges we ran into
 
-Our team was having issue configuring firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimics it and missing functionalities that was needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary. We also had trouble finding a tool that categorizes the transaction to a specific expense type.
+Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary. We also had trouble finding a tool that categorizes the transaction to a specific expense type.
 
 # Accomplishments that we're proud of
 
-We are proud that we were were able to create a functional website in just two days. This hack incorporated pretty much all the categories in the competition and we all wanted to go all out on the last TechToegther Hackathon of the season.
+We are proud that we were were able to create a functional website in just two days. This hack incorporated pretty much all the categories in the competition and we all wanted to go all out on the last TechTogether Hackathon of the season.
 
 # What we learned
 
-We learnt how to use React and Firebase in websites. We also educated ourselves a bit on cryptocurrency and data topics which has made us more interested in these fields.
+We broadened our knowledge in new technologies and tech fields, namely cryptocurrency and data. Since this was the first time creating a project with React and Firebase, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
 
 # What's next for MoneyBean
 
