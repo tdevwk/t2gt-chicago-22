@@ -8,7 +8,7 @@ On typical banking websites, purchases/transactions are usually represented by t
 
 # What it does
 
-Users export their CC or debit card activity into a csv, and then upload it to our site. The data will processed and then users will be able to see their spending in a bar chart, organized by categories such as automotive expenses, entertainment expenses, etc. The user can see their monthly expenses, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt.
+Users export their CC or debit card activity into a csv, and then upload it to our site. The data will be processed and then users will be able to see their spending in a bar chart, organized by categories such as automotive expenses, entertainment expenses, etc. The user can see their monthly expenses, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt.
 
 # How we built it
 
