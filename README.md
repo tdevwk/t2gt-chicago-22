@@ -30,6 +30,7 @@ We learnt how to use React and Firebase in websites. We also educated ourselves 
 
 Add more features.
 Create more chatbots for using money.
+Add more data models.
 
 
 # Tasks
