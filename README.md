@@ -16,7 +16,7 @@ The project was built using React, Azure Cosmos, Chart.js, HTML, CSS, Typecript,
 
 # Challenges we ran into
 
-Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary. We also had trouble finding a tool that categorizes the transaction to a specific expense type.
+Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary.
 
 # Accomplishments that we're proud of
 
@@ -24,7 +24,7 @@ We are proud that we were were able to create a functional website in just two d
 
 # What we learned
 
-We broadened our knowledge in new technologies and tech fields, namely cryptocurrency and data. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
+We broadened our knowledge in new technologies and tech fields. Since this was the first time creating a project with React and Azure Cosmos, we also learned how to create tools in a new tech stack. From this experience, we have an increased interest in further exploring the technology we've learned about and utilized.
 
 # What's next for MoneyBean
 
