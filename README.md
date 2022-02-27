@@ -4,7 +4,7 @@
 
 # Inspiration
 
-As aspiring Hackathon masters who also have an interest in data and finance, we wanted to create a tool that incorporates finance, financial literacy, and data. We also wanted to make this tool as accessible as possible so that any individual can use it to manage their finances. 
+On typical banking websites, purchases/transactions are usually represented by the date they occurred. While this is helpful for ensuring all your purchases have been recorded correctly, users could benefit from seeing where their money truly goes. The tool we created is designed to help individuals categorize their expenses and see how much they're spending on rent, utilities, dining, etc. in a visual chart.  
 
 # What it does
 
@@ -12,7 +12,7 @@ User can export their CC or debit card activity into a csv, and they would uploa
 
 # How we built it
 
-The project was built using React, Azure Cosmos, HTML, CSS, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
+The project was built using React, Azure Cosmos, HTML, CSS, Typescript, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
 
 # Challenges we ran into
 
