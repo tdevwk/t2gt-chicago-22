@@ -17,10 +17,10 @@
 Devpost Submission - Shivani
 Read Me - Shivani
 Mockup visualization - Ti
-CSV + Visualization - Michelle
+CSV + Process - Michelle
 React - Claudia
 Micrsoft Azure Deployment - Shivani
 Overall Github  - Ti, Shivani
 Firebase - Michelle
 Connect UI to Firebase - Michelle
-create page to upload csv - Michelle
+create page to upload csv - Ti
