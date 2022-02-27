@@ -8,11 +8,11 @@ On typical banking websites, purchases/transactions are usually represented by t
 
 # What it does
 
-Users export their CC or debit card activity into a csv, and then upload it to our site. The data will be processed and then users will be able to see their spending in a bar chart, organized by categories such as automotive expenses, entertainment expenses, etc. The user can see their monthly expenses, debt, and how much they earn in a monthly basis. Based on that information, they are given suggestions on how much they should pay towards debt.
+Users can export their CC or debit card activity into a csv, and then upload it to our site. The data will be processed and then users will be able to see their spending in a bar chart, organized by categories such as automotive expenses, entertainment expenses, etc. They can also input monthly expenses for rent, utilities, etc. The user can use this information to track their monthly expenses compare that with their earnings/debts in their bank accounts. It can help them with decision-making in regards to how much they might want to pay towards debt vs how much they would want to save.
 
 # How we built it
 
-The project was built using React, Azure Cosmos, HTML, CSS, Typescript, and Javascript. We collaborated using Google Workspace, repl.it, VS Code, and Github. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
+The project was built using React, Azure Cosmos, Chart.js, HTML, CSS, Typecript, and Javascript. We collaborated using Google Workspace, repl.it, VS Code. We also deployed the website onto Microsoft Azure with the resource name Moneybean and stored the code on Github.
 
 # Challenges we ran into
 
@@ -28,8 +28,7 @@ We broadened our knowledge in new technologies and tech fields, namely cryptocur
 
 # What's next for MoneyBean
 
-Add more features.
-Create more chatbots for using money.
-Add more data models.
+We can expand the features of the site and allow for more comparison with savings data.  We could also incorporate chatbots to provide helpful tips on saving money.
+
 
 
