@@ -33,14 +33,3 @@ Create more chatbots for using money.
 Add more data models.
 
 
-# Tasks
-Devpost Submission - Shivani
-Read Me - Shivani
-Mockup visualization - Ti
-CSV + Visualization - Michelle
-React - Claudia
-Micrsoft Azure Deployment - Shivani
-Overall Github  - Ti, Shivani
-Firebase - Michelle
-Connect UI to Firebase - Michelle
-create page to upload csv - Michelle
