@@ -16,7 +16,7 @@ The project was built using React, Azure Cosmos, Chart.js, HTML, CSS, Typecript,
 
 # Challenges we ran into
 
-Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to complete everything that was necessary.
+Our team was having issues with configuring Firebase and setting up the data model (in firebase, it's called structure). We thought Firebase would be similar to SQL concepts, but it doesn't mimic it and missed functionalities that were needed (i.e., sql table, stored procedure). We tried Azure Cosmos DB and it was similar enough to SQL that we were able to utilize it in our project.
 
 # Accomplishments that we're proud of
 
